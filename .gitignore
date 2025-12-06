@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Generated projects (for testing)
+test-output/
+generated-project/
+
+# Logs
+*.log
