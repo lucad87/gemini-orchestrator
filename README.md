@@ -31,7 +31,7 @@ npm install -g @google/gemini-cli
 
 ```bash
 # Clone this repository
-git clone https://github.com/YOUR_USERNAME/gemini-orchestrator.git
+git clone https://github.com/lucad87/gemini-orchestrator.git
 cd gemini-orchestrator
 
 # Run the install script
